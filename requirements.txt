@@ -1,3 +1,5 @@
 openai
 llama-index
 tiktoken
+PyPDF2
+gradio
