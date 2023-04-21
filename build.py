@@ -5,7 +5,7 @@ import gradio as gr
 import sys
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 data_directory_path = './data'
 index_cache_path = 'cache.json'
 
